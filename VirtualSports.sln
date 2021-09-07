@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualSports.AndroidEmulator", "VirtualSports.AndroidEmulator\VirtualSports.AndroidEmulator.csproj", "{9BDCC548-45FD-4F4A-9C6A-E4BC83276BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualSports.AndroidEmulator.Tests", "VirtualSports.AndroidEmulator.Tests\VirtualSports.AndroidEmulator.Tests.csproj", "{E79B5DB5-3B44-4640-A4AB-56302E1282E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BDCC548-45FD-4F4A-9C6A-E4BC83276BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDCC548-45FD-4F4A-9C6A-E4BC83276BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDCC548-45FD-4F4A-9C6A-E4BC83276BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDCC548-45FD-4F4A-9C6A-E4BC83276BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79B5DB5-3B44-4640-A4AB-56302E1282E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79B5DB5-3B44-4640-A4AB-56302E1282E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79B5DB5-3B44-4640-A4AB-56302E1282E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79B5DB5-3B44-4640-A4AB-56302E1282E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85A1E1BC-18E1-4D72-99E5-3309F0FB85E4}
+	EndGlobalSection
+EndGlobal
